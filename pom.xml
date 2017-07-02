@@ -115,7 +115,7 @@
   </configuration>
 </plugin>
 		</plugins>
-		<finalName>ApparelMagicClient1</finalName>
+		<finalName>ApparelMagicClient</finalName>
 		</build>
 	<packaging>war</packaging>
 </project>
